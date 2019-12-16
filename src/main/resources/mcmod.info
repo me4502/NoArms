@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "NoArms",
+    "name": "NoArms",
+    "description": "Removes arms",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Me4502"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
